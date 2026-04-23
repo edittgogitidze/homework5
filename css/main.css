@@ -84,7 +84,7 @@ display: inline-block;
 }
 .disp-middle{
     display: inline-block;
-    vertical-align: middle;
+    vertical-align:middle;
 }
 .mg-nat-res{
     margin-right: 2px;
