@@ -31,6 +31,7 @@ display: inline-block;
     width: 1400px;
     height: 624px;
     margin: 0 auto;
+    padding: 72.28px 0px 91px 0px;
 }
 .advantage{
   font-family: "Yellowtail", cursive;
@@ -47,17 +48,20 @@ display: inline-block;
   font-size: 50px;
   color: #274C5B;
   line-height: 100%;
-  margin-bottom: 25px;
+  margin: 0px 147px 25px 0px;
 }
 .description{
     width: 671px;
     height: 624px;
     display: inline-block;
+    vertical-align: top;
 }
 .vegetables{
     width: 678px;
     height: 579px;
     display: inline-block; 
+    vertical-align: top;
+    margin-left: 51px;
 }
 .description p{
     font-family: "Open Sans", sans-serif;
