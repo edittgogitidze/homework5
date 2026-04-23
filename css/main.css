@@ -1,0 +1,20 @@
+.menu-bar{
+    margin-bottom: 72.28px;
+    color:#FFFFFFE5 ;
+    padding: 69px 0px;
+}
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 150px;
+}
+.nav-items{
+    display: inline-block;
+    vertical-align: middle;
+}
+.li-items{
+display: inline-block;
+}
+.mg-right{
+    margin-right: 50px;
+}
