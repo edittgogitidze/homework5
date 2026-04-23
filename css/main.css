@@ -1,9 +1,10 @@
 .menu-bar{
-    margin-bottom: 72.28px;
     color:#FFFFFFE5 ;
-    padding: 69px 0px;
+    padding: 69px 0px 69px 162px;
 }
 .logo{
+    width: 198.79px;
+    height: 53.72px;
     display: inline-block;
     vertical-align: middle;
     margin-right: 150px;
@@ -18,3 +19,108 @@ display: inline-block;
 .mg-right{
     margin-right: 50px;
 }
+.nav-items a{
+    color: #274C5B;
+    font-family: "Roboto", sans-serif;
+}
+.main-section{
+    background-color: #F9F8F8;
+
+}
+.container{
+    width: 1400px;
+    height: 624px;
+    margin: 0 auto;
+}
+.advantage{
+  font-family: "Yellowtail", cursive;
+  font-size: 36px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 100%;
+  color:#7EB693 ;
+  margin-bottom: 6px;
+}
+.main-headline{
+  font-family: "Roboto", sans-serif;
+  font-weight: 800;
+  font-size: 50px;
+  color: #274C5B;
+  line-height: 100%;
+  margin-bottom: 25px;
+}
+.description{
+    width: 671px;
+    height: 624px;
+    display: inline-block;
+}
+.vegetables{
+    width: 678px;
+    height: 579px;
+    display: inline-block; 
+}
+.description p{
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 165%;
+    color: #525C60;
+}
+.natural,.resistance{
+    width: 339px;
+    height: 81px;
+    background-color:#ECECEC;
+    padding: 29px 91px 29px 27px; 
+}
+.natural,.resistance h5{
+    color:#274C5B ;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    line-height: 100%;
+}
+.disp-middle{
+    display: inline-block;
+    vertical-align: middle;
+}
+.mg-nat-res{
+    margin-right: 2px;
+}
+.natural{
+    margin: 36px 0px 12px 0px;
+}
+.resistance{
+    margin: 24px 0px 12px 0px;
+}
+.mini-container{
+    width: 1118px;
+    margin: 0 auto;
+    margin-top: 91px;
+}
+.return-class{
+    width: 257px;
+    height: 335px;
+    background-color:#FFFFFF ;
+    display: inline-block;
+    margin-bottom: 189px;
+}
+.return-class h4{
+    color: #274C5B;
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 100%;
+    margin: 29px 46px 20px 22px ;
+}
+.return-class p{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 165%;
+    margin: 0px 37px 142px 36px;
+    color: #525C60;
+}
+.for-returns{
+    margin-right: 30px;
+}
+
